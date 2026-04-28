@@ -1,2 +1,15 @@
 setup_cses.py
+run.sh
 
+
+# Per-problem scratch I/O used by the freopen() pattern in each .cpp
+input.txt
+output.txt
+
+# Compiled binaries (default name when you compile in-place)
+*.out
+*.exe
+a.out
+
+# macOS
+.DS_Store
